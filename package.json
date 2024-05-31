@@ -7,9 +7,13 @@
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "p":"prettier ."
   },
   "dependencies": {
-    "astro": "^4.8.2"
+    "astro": "^4.8.2"    
+  },
+  "devDependencies": {
+    "prettier": "^3.2.5"
   }
 }
